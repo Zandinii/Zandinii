@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a civilengineer student @ Chalmers University of Technology
+
 <!--
 **Zandinii/Zandinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
