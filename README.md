@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a civilengineer student in computer science @ Chalmers University of Technology
+I am a civilengineer student in computer science @ Chalmers. Welcome to my Github!
 
 <!--
 **Zandinii/Zandinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
