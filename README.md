@@ -1,4 +1,4 @@
-<img src="github-logo.svg" width="850" alt="Johan" />
+<img src="github-logo.svg" width="650" alt="Johan" />
 
 ### Hej där, jag är Johan 🤟🏼
 
